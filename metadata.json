@@ -1,0 +1,7 @@
+{
+  "name": "Neon Cyber Dash",
+  "description": "A high-octane neon-themed platformer designed for mobile. Includes integrated spaces for Google Ads monetization and AI-powered performance coaching.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
